@@ -1,10 +1,10 @@
-# Ignore tmp/ directory
+
 tmp/
 
-# Ignore files ending with _old or _backup
+
 *_old
 *_backup
 
-# Ignore Thumbs.db and .DS_Store files
+
 Thumbs.db
 .DS_Store
